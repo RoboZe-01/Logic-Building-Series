@@ -1,5 +1,7 @@
 
 
+# Logic Building series Overall Plan ( You can also follow this to build a strong logic ) 
+
 ## 🧠 Your Goals:
 
 * Build a **strong problem-solving mindset** using Python.
