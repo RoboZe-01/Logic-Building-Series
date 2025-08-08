@@ -14,7 +14,7 @@
 
 ## 📆 Plan Structure:
 
-* **Daily Time:** 1 hour
+* **Daily Time:** 1 -2  hour daily
 * **Problem Structure (Daily):**
 
   * ✅ 1 Conceptual DSA Problem (focus on structure/algorithms)
