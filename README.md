@@ -200,3 +200,7 @@
 ---
 
 
+Try different approaches for questions and problems.
+
+learn dsa later to get to know it 
+
