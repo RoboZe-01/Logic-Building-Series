@@ -1,3 +1,3 @@
 # problem statement : 
 
-input_user = int(input("Enter your lucky number here : "))
+input_user = int(input("Enter your lucky number here : "));
