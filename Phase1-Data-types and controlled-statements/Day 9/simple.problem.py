@@ -3,5 +3,5 @@
 # Get lucky number from the user
 input_user = int(input("Enter your lucky number here: "))
 
-# Print the lucky number
+# Printing the lucky number
 print("Your lucky number is:", input_user)
