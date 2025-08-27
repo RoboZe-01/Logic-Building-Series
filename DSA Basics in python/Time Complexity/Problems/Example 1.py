@@ -6,3 +6,6 @@ for i in range(1,n+1):          #
 
 
         ## Find time complexity for it 
+
+
+        ## it will be O(n^2)
